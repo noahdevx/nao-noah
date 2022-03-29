@@ -1,6 +1,6 @@
 ### Hi there, I'm Noah 👋
 
-I'm a software engineer based on North America.
+I'm a software engineer based in North America.
 
 ### Personal Projects
 
